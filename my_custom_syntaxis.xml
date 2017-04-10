@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Fuck up">
+<style-scheme version="1.0" name="My Qt sheet">
   <style name="Text" foreground="#e6e5e2" background="#1e201a"/>
   <style name="Link" foreground="#66d9ef"/>
   <style name="Selection" foreground="#e6e5e2" background="#49483e"/>
